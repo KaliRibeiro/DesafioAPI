@@ -51,7 +51,7 @@ app.get('/palco/:id', async (req, res) => {
 
     const{id} = req.params;
 
-    const palco = await lollafest("artista").select("*").where({id});
+    const palco = await lollafest("palco").select("*").where({id});
 
     res.json(palco);
 
