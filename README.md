@@ -4,7 +4,7 @@ Bem-vindo à LollaFest API! Este projeto foi desenvolvido como parte do curso de
 A API foi construída utilizando Node.js, Express e Knex.js, conectada a um banco de dados Mysql, e testada com o Insomnia.
 
 🧪 Testes
-Todos os testes das rotas foram realizados utilizando o Insomnia, validando as operações de GET, POST, PUT e DELETE conforme as regras do festival.
+Todos os testes das rotas foram realizados utilizando o Insomnia, validando as operações de GET, POST e DELETE conforme as regras do festival.
 
 🧠 Funcionalidades
 A API permite o gerenciamento completo do festival:
